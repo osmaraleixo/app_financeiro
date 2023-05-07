@@ -1,0 +1,14 @@
+pandas
+yfinance
+streamlit
+matplotlib.pyplot
+plotly.express
+plotly.graph_objects
+investpy
+datetime
+seaborn
+numpy
+quandl
+ta
+fundamentus
+base64
