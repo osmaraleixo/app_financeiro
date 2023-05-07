@@ -1,2 +1,2 @@
-# spread_app
+# app
 Web App Análise de Spread
